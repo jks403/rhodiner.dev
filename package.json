@@ -1,0 +1,11 @@
+{
+  "name": "rhodiner.dev",
+  "version": "1.0.0",
+  "description": "diner application for rhoshan",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joshua stewart",
+  "license": "ISC"
+}
