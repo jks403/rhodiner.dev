@@ -8,7 +8,10 @@
   },
   "author": "joshua stewart",
 
+
   "license": "ISC",
+
+
 
   "dependencies": {
     "sqlite3": "^5.1.7",
